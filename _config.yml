@@ -1,0 +1,111 @@
+# Site settings
+title: Mark Kevin's CV 
+description: makudesu's CV
+favicon: /makudesu.github.io/assets/img/avatar.JPG
+rss_url: /resumecard/pages/atom.xml
+google_analytics: UA-63653234-1
+
+# Build settings
+markdown: kramdown
+
+exclude: [vendor]
+
+# Author settings
+author:
+  name: Mark Kevin H. Agustin
+  title: Hacker/Programmer
+  address: San Leonardo, Bambang, Nueva Vizcaya
+  email: mark.kevin@openmailbox.org
+  github: makudesu
+  gavatar: /makudesu.github.io/assets/img/avatar.JPG
+  cp: +639356513816
+  workHistory:
+    - work1:
+      company: DigitalMax
+      location: San Marcos, Cabarroguis, Quirino
+      title: Computer Technician
+      started: 2016
+      duration: (2016 - 2016)
+      description: I worked here while finishing my Thesis. I've setup workstations, servers, hardware/software repairs for two months.
+    - work2:
+      company: Part-time jobs
+      location: San Leonardo, Bambang, Nueva Vizcaya
+      title: Technician/Programmer
+      started: 2012
+      duration: (2012 - Present)
+      description: I service laptops/desktops/smartphones including but not limited to Hardware repairs, Software troubleshooting/installation.
+  educationHistory:
+    - education1:
+      organization: Nueva Vizcaya State University
+      location: Bambang, Nueva Vizcaya
+      degree: Bachelor
+      major: Information Technology
+      started: 2010
+      duration: (2010 - 2016)
+      description: I've learned a lot here.
+  languages:
+    - language1:
+      name: Ilocano
+      proficiency: Native
+    - language2:
+      name: Tagalog
+      proficiency: Intermediate (speaking, reading, writing)
+    - language3:
+      name: English
+      proficiency: Intermediate (speaking); Fluent (reading, writing)
+    - language4:
+      name: Japanese
+      proficiency: Elementary (speaking)
+  programmingSkills:
+    - skill1:
+      name: Python
+      percentage: 75%
+    - skill2:
+      name: Bash
+      percentage: 80%
+    - skill3:
+      name: MySql
+      percentage: 55%
+    - skill4:
+      name: Postgresql
+      percentage: 40%
+    - skill5:
+      name: C++
+      percentage: 20%
+    - skill6:
+      name: Java
+      percentage: 10%
+    - skill7:
+      name: Javascript
+      percentage: 10%
+    - skill8:
+      name: reStructuredText
+      percentage: 80%
+    - skill9:
+      name: CSS/HTML
+      percentage: 80%
+  otherSkills:
+    - skill1:
+      name: GNU/Linux (Terminal)
+      percentage: 90%
+    - skill2:
+      name: Vim
+      percentage: 79%
+    - skill3:
+      name: Git
+      percentage: 90%
+    - skill4:
+      name: Computer Hardware
+      percentage: 95%
+    - skill5:
+      name: Flask Web Framework
+      percentage: 50%
+    - skill6:
+      name: Heroku Cloud
+      percentage: 50%
+    - skill7:
+      name: Python Anywhere
+      percentage: 50%
+    - skill8:
+      name: Penetration Testing (Kali Linux tools ex. Nmap, Metasploit, etc.)
+      percentage: 50%

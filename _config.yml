@@ -15,6 +15,7 @@ author:
   name: Mark Kevin H. Agustin
   title: Hacker/Programmer
   address: San Leonardo, Bambang, Nueva Vizcaya
+  longlat: 16.388532,121.0903598
   email: mark.kevin@openmailbox.org
   github: makudesu
   gavatar: /makudesu.github.io/assets/img/avatar.JPG
@@ -49,13 +50,13 @@ author:
       proficiency: Native
     - language2:
       name: Tagalog
-      proficiency: Intermediate (speaking, reading, writing)
+      proficiency: Intermediate 
     - language3:
       name: English
-      proficiency: Intermediate (speaking); Fluent (reading, writing)
+      proficiency: Intermediate
     - language4:
       name: Japanese
-      proficiency: Elementary (speaking)
+      proficiency: Elementary
   programmingSkills:
     - skill1:
       name: Python
@@ -99,13 +100,13 @@ author:
       percentage: 95%
     - skill5:
       name: Flask Web Framework
-      percentage: 50%
+      percentage: 40%
     - skill6:
       name: Heroku Cloud
-      percentage: 50%
+      percentage: 35%
     - skill7:
       name: Python Anywhere
-      percentage: 50%
+      percentage: 25%
     - skill8:
       name: Penetration Testing (Kali Linux tools ex. Nmap, Metasploit, etc.)
-      percentage: 50%
+      percentage: 70%
